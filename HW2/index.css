@@ -1,0 +1,54 @@
+.c1{
+    color: rgb(146, 127, 255);
+}
+.c2{
+    color: blueviolet;
+}
+.c3{
+    color: rgb(126, 126, 126);
+}
+.c4{
+    color: rgb(96, 255, 104);
+}
+.point{
+    color: red;
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+.purple{
+    color: purple;
+}
+.pink{
+    color: pink;
+}
+.point{
+    color: red;
+}
+.cadetblue{
+    color: cadetblue;
+}
+.aqua{
+    color: aqua;
+}
+.yellow{
+    color: yellow;
+}
+
+
+
+.ft-size-l{
+    font-size: large;
+}
+.ft-size-ll{
+    font-size: larger;
+}
+.ft-size-xl{
+    font-size: x-large;
+}
+.ft-size-xxl{
+    font-size: xx-small;
+}
