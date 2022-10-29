@@ -1,3 +1,6 @@
+body{
+    margin: 0px;
+}
 .c1{
     color: rgb(146, 127, 255);
 }
@@ -10,32 +13,32 @@
 .c4{
     color: rgb(96, 255, 104);
 }
-.point{
-    color: red;
+span.point>a,.point{
+    color: red !important;
 }
-.red{
-    color: red;
+span.red>a,.red{
+    color: red !important;
 }
-.green{
-    color: green;
+span.green>a,.green{
+    color: green !important;
 }
-.purple{
-    color: purple;
+span.purple>a,.purple{
+    color: purple !important;
 }
-.pink{
-    color: pink;
+span.pink>a,.pink{
+    color: pink !important;
 }
-.point{
-    color: red;
+span.point>a,.point{
+    color: red !important;
 }
-.cadetblue{
-    color: cadetblue;
+span.cadetblue>a,.cadetblue{
+    color: cadetblue !important;
 }
-.aqua{
-    color: aqua;
+span.aqua>a,.aqua{
+    color: aqua !important;
 }
-.yellow{
-    color: yellow;
+span.yellow>a,.yellow{
+    color: yellow !important;
 }
 
 
