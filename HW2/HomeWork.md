@@ -14,6 +14,7 @@
  - [Principle](#principle)
  - [Application](#appliction)
  - [Concept map](#concept-map)
+ - [study sheet](#study-sheet)
  - [Article Source](#article-source)
  - [Reference](#reference)
 
@@ -133,7 +134,9 @@ This technology is not for store digital data mainly, though this is a bonus. Th
     id2-->id3["Cas9 Find it and Chop it up."]
     id3-->id4["Insert the DNA sequently"]
 :::
-[Logo]:https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.storm.mg%2Flifestyle%2F45332&psig=AOvVaw2VY0JzHFVwHA5hMUq5oJMO&ust=1667231885339000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODe2POoiPsCFQAAAAAdAAAAABAE
+
+# Study sheet
+![alt 文字](./ecoli.jpg "Logo 標題文字 1")
 
 # Article Source
 [Scientists have inserted a GIF of a horse into living bacteria — did your brain just explode?](https://techcrunch.com/2017/07/12/harvard-nature-crispr-cas1-cas2-horse-gif/)
