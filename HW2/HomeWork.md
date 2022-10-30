@@ -93,7 +93,7 @@ Finally the genome will be inserted into the E.coli's genome in a specific space
 
 If we watch a bacteria's DNA, we'll find the history that this bacteria's defense. If above is too hard to understand you can see the chart following.
 
-:::mermaid
+```mermaid
     graph TB;
     Viral["Viral got invasion."]-->crispr["Crispr go out."]
     crispr-->id0["Catching a piece of  Intruder's DNA."]
@@ -101,7 +101,7 @@ If we watch a bacteria's DNA, we'll find the history that this bacteria's defens
     id1-->id2["Enzyme turn into a matching guide RNA."]
     id2-->id3["Cas9 Find it and Chop it up."]
     id3-->id4["Insert the DNA sequently"]
-:::
+```
 #### key words
 - Crispr-Cas9
 
@@ -118,14 +118,14 @@ This technology is not for store digital data mainly, though this is a bonus. Th
 
 # Concept map
 ## History
-:::mermaid
+```mermaid
     graph TD;
     id1["Scientists find there are serveral repeat segment in E.coli's genome "]-->id2["Find the principle of CRISPR system"]
     id2-->id3["To edit E.coli's gene for medical use and research"]
     id3-->id4["Use this mechanism to store a picture"]
-:::
+```
 ## Principle :
-:::mermaid
+```mermaid
     graph TB;
     Viral["Viral got invasion."]-->crispr["Crispr go out."]
     crispr-->id0["Catching a piece of  Intruder's DNA."]
@@ -133,7 +133,7 @@ This technology is not for store digital data mainly, though this is a bonus. Th
     id1-->id2["Enzyme turn into a matching guide RNA."]
     id2-->id3["Cas9 Find it and Chop it up."]
     id3-->id4["Insert the DNA sequently"]
-:::
+```
 
 # Study sheet
 ![alt 文字](./ecoli.jpg "Logo 標題文字 1")

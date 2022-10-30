@@ -2,7 +2,7 @@
 
 # 大腸桿菌(E.coli)埃西氏菌屬(Escherichia)
 
-::: mermaid
+``` mermaid
 
 graph TD
     Escherichia["大腸桿菌"]-->toxin1["Non-DEC(非腸道感染)"]
@@ -10,7 +10,7 @@ graph TD
     toxin2-->sub1["非侵襲性(小腸感染)"]
     toxin2-->sub2["侵襲性"]
   
-:::
+```
 
 
 # 基本介紹
