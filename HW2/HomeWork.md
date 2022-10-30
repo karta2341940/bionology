@@ -11,9 +11,9 @@
     - [DNA](#dna)
  - [Storage](#storage)
  - [Crispr](#crispr)
- - 1
- - 1
- - 1
+ - [Principle](#principle)
+ - [Application](#appliction)
+ - [Concept map](#concept-map)
  - [Article Source](#article-source)
  - [Reference](#reference)
 
@@ -107,12 +107,41 @@ If we watch a bacteria's DNA, we'll find the history that this bacteria's defens
 #### key point
 > This chapter is talking about how the Crispr system works. And we can know about that the system is a bacteria's defense system. So we use the mechanism to insert the data what we want to store.
 
+# Appliction
+This technology is not for store digital data mainly, though this is a bonus. This technology is not only for scaling down our computer hard drive to a bacterial size, but also to store our gene information on a bacteria, through its machanism to record any animal's cell, made it into a <span class="red">biological information recoder</span>.
+
+#### key words
+- Biological information recoder
+#### key point
+> Through the CRISPR system we can made bacteria into a biological information recorder.It made us use less space to store more information. And it's more safe than our drive because bacteria copy itself just use a few minutes but drive maybe need many hours, and we can freeze a bateria that its DNA will save for several years, but hard drive not, if you cut out power for serveral years maybe the data will disappearing and you never gonna made it back.
+
+# Concept map
+## History
+:::mermaid
+    graph TD;
+    id1["Scientists find there are serveral repeat segment in E.coli's genome "]-->id2["Find the principle of CRISPR system"]
+    id2-->id3["To edit E.coli's gene for medical use and research"]
+    id3-->id4["Use this mechanism to store a picture"]
+:::
+## Principle :
+:::mermaid
+    graph TB;
+    Viral["Viral got invasion."]-->crispr["Crispr go out."]
+    crispr-->id0["Catching a piece of  Intruder's DNA."]
+    id0-->id1["Cas1 and Cas2 slip into the Intruder's genome."]
+    id1-->id2["Enzyme turn into a matching guide RNA."]
+    id2-->id3["Cas9 Find it and Chop it up."]
+    id3-->id4["Insert the DNA sequently"]
+:::
+[Logo]:https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.storm.mg%2Flifestyle%2F45332&psig=AOvVaw2VY0JzHFVwHA5hMUq5oJMO&ust=1667231885339000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODe2POoiPsCFQAAAAAdAAAAABAE
+
 # Article Source
 [Scientists have inserted a GIF of a horse into living bacteria — did your brain just explode?](https://techcrunch.com/2017/07/12/harvard-nature-crispr-cas1-cas2-horse-gif/)
 
 [Gif and image written into the DNA of bacteria](https://www.bbc.com/news/science-environment-40585299)
 
 [Scientists Upload a Galloping Horse GIF Into Bacteria With Crispr](https://www.wired.com/story/scientists-upload-a-galloping-horse-gif-into-bacteria-with-crispr/)
+
 
 # Reference
 * [基因組學－人類基因體計劃及其應用](https://www2.nsysu.edu.tw/Bio/images/commen/Genomics-Human%20genome1090530.pdf)
