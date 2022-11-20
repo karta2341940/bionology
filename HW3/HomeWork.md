@@ -61,7 +61,7 @@ C-->D[Get the chromosome out of the yeast]
 D-->E[Metylate the chromosome]
 E-->F[Transplant the chromosome]
 F-->G[Boot up a cell]
-G-->H{If the genome have bug}
+G-->H{If the chromosome have bugs?}
 H-->|Yes|B
 H-->|No|I[Congratulations! You have a new species]
 ```
