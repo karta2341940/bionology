@@ -1,0 +1,61 @@
+body{
+    margin: 0px;
+}
+.c1{
+    color: rgb(146, 127, 255);
+}
+.c2{
+    color: blueviolet;
+}
+.c3{
+    color: rgb(126, 126, 126);
+}
+.c4{
+    color: rgb(96, 255, 104);
+}
+span.point>a,.point{
+    color: red !important;
+}
+span.red>a,.red{
+    color: red !important;
+}
+span.green>a,.green{
+    color: green !important;
+}
+span.purple>a,.purple{
+    color: purple !important;
+}
+span.pink>a,.pink{
+    color: pink !important;
+}
+span.point>a,.point{
+    color: red !important;
+}
+span.cadetblue>a,.cadetblue{
+    color: cadetblue !important;
+}
+span.aqua>a,.aqua{
+    color: aqua !important;
+}
+span.yellow>a,.yellow{
+    color: yellow !important;
+}
+
+
+
+.ft-size-l{
+    font-size: large;
+}
+.ft-size-ll{
+    font-size: larger;
+}
+.ft-size-xl{
+    font-size: x-large;
+}
+.ft-size-xxl{
+    font-size: xx-small;
+}
+
+strong{
+    color: rgb(255, 119, 95);
+}
