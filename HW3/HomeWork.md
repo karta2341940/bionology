@@ -65,6 +65,7 @@ G-->H{If the genome have bug}
 H-->|Yes|B
 H-->|No|I[Congratulations! You have a new species]
 ```
+![](./%E5%AD%B8%E7%BF%92%E5%96%AE.jpg)
 
 # Reference 
 1. [Mycoplasma](https://en.wikipedia.org/wiki/Mycoplasma)
