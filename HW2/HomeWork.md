@@ -5,18 +5,35 @@
 >All the content is writed by Markdwon you can see the source in my <a href="https://github.com/karta2341940/bionology/tree/main/HW2">Github</a> there store my class notes but not all.
 
 #### Table of Content
- - [Introduction](#introduction)
-    - [Motivation](#the-motivation-to-study-this-topic)
-    - [About E.coli](#ecoli)
-    - [DNA](#dna)
- - [Storage](#storage)
- - [Crispr](#crispr)
- - [Principle](#principle)
- - [Application](#appliction)
- - [Concept map](#concept-map)
- - [study sheet](#study-sheet)
- - [Article Source](#article-source)
- - [Reference](#reference)
+- [E.colid-State Drive](#ecolid-state-drive)
+  - [NOTE](#note)
+      - [Table of Content](#table-of-content)
+- [Introduction](#introduction)
+  - [The Motivation to Study this topic](#the-motivation-to-study-this-topic)
+  - [E.coli](#ecoli)
+  - [DNA](#dna)
+      - [Keywords:](#keywords)
+      - [Key Point:](#key-point)
+- [Storage](#storage)
+      - [Keywords:](#keywords-1)
+      - [Key Point:](#key-point-1)
+- [Crispr](#crispr)
+      - [Key words:](#key-words)
+      - [Key Point:](#key-point-2)
+- [Principle](#principle)
+      - [key words](#key-words-1)
+      - [key point](#key-point-3)
+- [Appliction](#appliction)
+      - [key words](#key-words-2)
+      - [key point](#key-point-4)
+- [Conclusion（Note）](#conclusionnote)
+- [Concept map](#concept-map)
+  - [History](#history)
+  - [Principle :](#principle-)
+- [Study sheet](#study-sheet)
+- [Article Source](#article-source)
+- [Reference](#reference)
+- [Class Note](#class-note)
 
 # Introduction
 ## The Motivation to Study this topic
@@ -115,6 +132,8 @@ This technology is not for store digital data mainly, though this is a bonus. Th
 - Biological information recoder
 #### key point
 > Through the CRISPR system we can made bacteria into a biological information recorder.It made us use less space to store more information. And it's more safe than our drive because bacteria copy itself just use a few minutes but drive maybe need many hours, and we can freeze a bateria that its DNA will save for several years, but hard drive not, if you cut out power for serveral years maybe the data will disappearing and you never gonna made it back.
+# Conclusion（Note）
+E.Coli is a bacteria that is easy to edit, so we can use this bacteria to store our data. And we can use the Crispr system to edit the E.coli's genome, so we can store our data into the E.coli's genome. And we can use the Crispr system to retrieve the data from the E.coli's genome. And we can use the Crispr system to reconstruct the data from the E.coli's genome. And we can use the Crispr system to edit the E.coli's genome to make it into a biological information recorder.
 
 # Concept map
 ## History
@@ -152,3 +171,5 @@ This technology is not for store digital data mainly, though this is a bonus. Th
 * [Cas1](https://en.wikipedia.org/wiki/Cas1)
 * [Cas2](https://en.wikipedia.org/wiki/Cas2)
 * [Introduction to the CRISPR/Cas9 system](https://www.takarabio.com/learning-centers/gene-function/gene-editing/gene-editing-tools-and-information/introduction-to-the-crispr/cas9-system)
+
+# Class Note
